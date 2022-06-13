@@ -1,5 +1,3 @@
-# SQL-ATIVIDADES
-Neste repositório vou mostrar algumas atividades que foram desenvolvidos durante o curso BANCO DE DADOS E SQL
 
 # Crie uma tebela contendo os seguintes itens :
 LIVRO, AUTOR, SEXO,	PAGINAS, EDITORA, VALOR,UF, ANO
